@@ -29,8 +29,7 @@
 Для установки и настройки Selenium WebDriver на локальной машине понадобятся:
 1. Java(JDK);
 2. Selenium server;
-3. Среда для разработки тестов (Eclipse);
-4. ChromeDriver (для тестирования в Google Chrome).
+3. ChromeDriver (для тестирования в Google Chrome).
 
 # Установка Java (Java Development Kit) <img src="https://icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png" width="20">
 
